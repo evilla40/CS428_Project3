@@ -570,6 +570,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7591376151356615485}
     m_Modifications:
+    - target: {fileID: 1073401861269016442, guid: 2006f213367c78b4690c00ea488ad06f,
+        type: 3}
+      propertyPath: m_Name
+      value: Interactable.Common
+      objectReference: {fileID: 0}
     - target: {fileID: 2820337721531854760, guid: 2006f213367c78b4690c00ea488ad06f,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -625,11 +630,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1073401861269016442, guid: 2006f213367c78b4690c00ea488ad06f,
+    - target: {fileID: 2131258982679763486, guid: 2006f213367c78b4690c00ea488ad06f,
         type: 3}
-      propertyPath: m_Name
-      value: Interactable.Common
+      propertyPath: elements.Array.size
+      value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2131258982679763486, guid: 2006f213367c78b4690c00ea488ad06f,
+        type: 3}
+      propertyPath: elements.Array.data[0]
+      value: 
+      objectReference: {fileID: 8013332689518465075}
     - target: {fileID: 2316798138750101695, guid: 2006f213367c78b4690c00ea488ad06f,
         type: 3}
       propertyPath: ActiveAndEnabled.m_PersistentCalls.m_Calls.Array.size
@@ -665,16 +675,6 @@ PrefabInstance:
       propertyPath: ActiveAndEnabled.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_FloatArgument
       value: Infinity
       objectReference: {fileID: 0}
-    - target: {fileID: 2131258982679763486, guid: 2006f213367c78b4690c00ea488ad06f,
-        type: 3}
-      propertyPath: elements.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2131258982679763486, guid: 2006f213367c78b4690c00ea488ad06f,
-        type: 3}
-      propertyPath: elements.Array.data[0]
-      value: 
-      objectReference: {fileID: 8013332689518465075}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2006f213367c78b4690c00ea488ad06f, type: 3}
 --- !u!4 &1046616883564014034 stripped
@@ -750,6 +750,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3744426887308644272}
     m_Modifications:
+    - target: {fileID: 6786077343534509639, guid: c72a79d4e6496ce4a8d8eff370fb614e,
+        type: 3}
+      propertyPath: m_Name
+      value: Interactable.GrabReceiver
+      objectReference: {fileID: 0}
     - target: {fileID: 6786077343534509636, guid: c72a79d4e6496ce4a8d8eff370fb614e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -804,11 +809,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6786077343534509639, guid: c72a79d4e6496ce4a8d8eff370fb614e,
-        type: 3}
-      propertyPath: m_Name
-      value: Interactable.GrabReceiver
       objectReference: {fileID: 0}
     - target: {fileID: 2177753939504016596, guid: c72a79d4e6496ce4a8d8eff370fb614e,
         type: 3}
