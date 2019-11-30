@@ -56,13 +56,22 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Code\Bell_OnTouch.cs" />
+     <Compile Include="Assets\Code\cannonFire.cs" />
      <Compile Include="Assets\Code\EnemySpawner.cs" />
+     <Compile Include="Assets\Code\shell.cs" />
      <Compile Include="Assets\Code\SoldierMove.cs" />
+     <Compile Include="Assets\Particle Attractor by Moonflower Carnivore\Scripts\particleAttractorLinear.cs" />
+     <Compile Include="Assets\Particle Attractor by Moonflower Carnivore\Scripts\particleAttractorMove.cs" />
+     <Compile Include="Assets\Particle Attractor by Moonflower Carnivore\Scripts\particleAttractorSelf.cs" />
+     <Compile Include="Assets\Particle Attractor by Moonflower Carnivore\Scripts\particleAttractorSpherical.cs" />
+     <Compile Include="Assets\Particle Attractor by Moonflower Carnivore\Scripts\rotation.cs" />
+     <None Include="Assets\Particle Attractor by Moonflower Carnivore\Shaders\Particles Additive Intensify.shader" />
      <None Include="Assets\_CustomShaders\FsSoftGrass.shader" />
      <None Include="Assets\VRTK\Dependencies\Zinnia.Unity\Dependencies\FodyWeavers.xml" />
      <None Include="Assets\Cartoon Castle Building Kit\ReadMe.txt" />
      <None Include="Assets\_CustomShaders\ReadMe.txt" />
      <None Include="Assets\ToonSoldiers_WW2_demo\ToonSoldiers_WW2_demo_README.txt" />
+     <None Include="Assets\Particle Attractor by Moonflower Carnivore\Particle Attractor documentation.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/Divay Pandey/Documents/P03/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
