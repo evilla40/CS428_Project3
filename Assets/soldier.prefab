@@ -148,7 +148,7 @@ GameObject:
   - component: {fileID: 6761062216024187807}
   m_Layer: 0
   m_Name: soldier
-  m_TagString: Untagged
+  m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -218,6 +218,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 040386f5716aa5a43b2ec0013efbc1e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 4
 --- !u!1 &6761062216749209873
 GameObject:
   m_ObjectHideFlags: 0

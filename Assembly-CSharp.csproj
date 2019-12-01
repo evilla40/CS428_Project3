@@ -55,9 +55,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Code\ArmyMove.cs" />
      <Compile Include="Assets\Code\Bell_OnTouch.cs" />
      <Compile Include="Assets\Code\cannonFire.cs" />
+     <Compile Include="Assets\Code\cannonFire2.cs" />
+     <Compile Include="Assets\Code\castle.cs" />
      <Compile Include="Assets\Code\EnemySpawner.cs" />
+     <Compile Include="Assets\Code\health.cs" />
      <Compile Include="Assets\Code\horn.cs" />
      <Compile Include="Assets\Code\Init.cs" />
      <Compile Include="Assets\Code\shell.cs" />
