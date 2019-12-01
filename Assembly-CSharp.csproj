@@ -58,6 +58,8 @@
      <Compile Include="Assets\Code\Bell_OnTouch.cs" />
      <Compile Include="Assets\Code\cannonFire.cs" />
      <Compile Include="Assets\Code\EnemySpawner.cs" />
+     <Compile Include="Assets\Code\horn.cs" />
+     <Compile Include="Assets\Code\Init.cs" />
      <Compile Include="Assets\Code\shell.cs" />
      <Compile Include="Assets\Code\SoldierMove.cs" />
      <Compile Include="Assets\Particle Attractor by Moonflower Carnivore\Scripts\particleAttractorLinear.cs" />
@@ -65,6 +67,7 @@
      <Compile Include="Assets\Particle Attractor by Moonflower Carnivore\Scripts\particleAttractorSelf.cs" />
      <Compile Include="Assets\Particle Attractor by Moonflower Carnivore\Scripts\particleAttractorSpherical.cs" />
      <Compile Include="Assets\Particle Attractor by Moonflower Carnivore\Scripts\rotation.cs" />
+     <Compile Include="Assets\ufo.cs" />
      <None Include="Assets\Particle Attractor by Moonflower Carnivore\Shaders\Particles Additive Intensify.shader" />
      <None Include="Assets\_CustomShaders\FsSoftGrass.shader" />
      <None Include="Assets\VRTK\Dependencies\Zinnia.Unity\Dependencies\FodyWeavers.xml" />

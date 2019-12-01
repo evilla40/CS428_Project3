@@ -27,7 +27,6 @@ public class cannonFire : MonoBehaviour
     void Update()
     {
         spWait = Random.Range(spLWait,spMWait);
-
     }
 
     IEnumerator coro()

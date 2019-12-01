@@ -60,6 +60,7 @@
      <Compile Include="Assets\VRTK\Samples\Farm\Prefabs\Scarecrow\Scripts\Tags\ScarecrowHandTag.cs" />
      <Compile Include="Assets\VRTK\Samples\Farm\Prefabs\Scarecrow\Scripts\Tags\ScarecrowHatTag.cs" />
      <Compile Include="Assets\VRTK\Samples\Farm\Prefabs\Scarecrow\Scripts\Tags\ScarecrowHeadTag.cs" />
+     <Compile Include="Assets\VRTK\Samples\Farm\Prefabs\WarehouseDoor\SharedResources\Scripts\Lights.cs" />
      <Compile Include="Assets\VRTK\Samples\Farm\Prefabs\WarehouseDoor\SharedResources\Scripts\WarehouseDoor.cs" />
      <Compile Include="Assets\VRTK\Samples\Farm\Scripts\Runtime\AnimatorScrubber.cs" />
      <Compile Include="Assets\VRTK\Samples\Farm\Scripts\Runtime\JointConnectedBodySetter.cs" />

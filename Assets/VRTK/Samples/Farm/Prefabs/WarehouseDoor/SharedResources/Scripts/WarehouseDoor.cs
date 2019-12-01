@@ -18,6 +18,7 @@
         [Serialized, Cleared]
         [field: DocumentedByXml]
         public GameObject Door { get; set; }
+
         /// <summary>
         /// The minimum and maximum height of the door.
         /// </summary>
@@ -36,7 +37,12 @@
             {
                 float newHeight = Mathf.Clamp(Door.transform.localScale.y + HeightStep, HeightLimits.minimum, HeightLimits.maximum);
                 Door.transform.localScale = new Vector3(1f, newHeight, 1f);
+
+          
+
             }
+
+            
         }
     }
 }
